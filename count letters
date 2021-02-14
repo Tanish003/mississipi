@@ -1,0 +1,5 @@
+string = "mississipi"
+print(string.count("m"))
+print(string.count("i"))
+print(string.count("s"))
+print(string.count("p"))
